@@ -40,7 +40,7 @@ O responsável pelo laboratório pediu para criar um software que
   
   *Não Disponibilizei essa parte pois os templates possuia assinatura e outros dados pessoais do responsável.*
   
-  **Para gerar os PDF's usei a lib iText-5.0.5
+  **Para gerar os PDF's usei a Lib iText-5.0.5**
 
 ## Meta
 
