@@ -4,28 +4,28 @@
 
 > Esse foi o meu primeiro projeto criado sozinho, aprendi muita coisa e reencontrei ele no meu driver e decidi colocar aqui para analisar e aprender com os erros
 
-**Obs: Necessario fazer a conexão com um bando de dados e editar o arquivo conexao.java (os comentarios no arquvio ajudarão a configurar)
+**Obs: Necessario fazer a conexão com um bando de dados e editar o arquivo conexao.java (os comentarios no arquivo ajudarão a configurar)
 
 ## Instalação
 
-Projeto criado no netbeans, apenas abrir, configurar o Conexao.java [Para conectar com o DB]
+Projeto criado no netbeans, apenas abrir o projeto e configurar o Conexao.java [Para conectar com o DB]
 
 ## Exemplo de uso
 
 O responsável pelo laboratório pediu para criar um software que
 
 ## Tarefas propostas
-- [x] Verificar quem está usando o programa (Ele, algum outro responsável ou aluno) [Tendo assim funcionalidades diferentes]
+- [x] Verifica quem está usando o programa (Ele, algum outro responsável ou aluno) [Tendo assim funcionalidades diferentes]
  
  <img src="https://i.imgur.com/lgyqHrK.jpg" alt="drawing" width="300"/>
   
   <img src="https://i.imgur.com/wTpuZA1.jpg" alt="drawing" width="500"/>
   
-- [x] Cadastrar os Equipamentos, junto com uma imagem do equipamento.
+- [x] Cadastra os Equipamentos, junto com uma imagem do mesmo.
 
   <img src="https://i.imgur.com/4NuyDxk.jpg" alt="drawing" width="500"/>
   
-- [x] Pesquisar os Equipamentos
+- [x] Pesquisar os Equipamentos cadastrados
   * Os equipamentos são listados do banco de dados
   
   <img src="https://i.imgur.com/C5QAUn4.jpg" alt="drawing" width="500"/>
