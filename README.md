@@ -46,4 +46,4 @@ O responsável pelo laboratório pediu para criar um software que
 
 Alan S' – alanstlim@gmail.com
 
-[https://github.com/yourname/github-link](https://github.com/alanstlim)
+[https://github.com/alanstlim](https://github.com/alanstlim)
