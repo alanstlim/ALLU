@@ -19,16 +19,16 @@ O responsável pelo laboratório pediu para criar um software que
  
  <img src="https://i.imgur.com/lgyqHrK.jpg" alt="drawing" width="300"/>
   
-  <img src="https://i.imgur.com/wTpuZA1.jpg" alt="drawing" width="500"/>
+ <img src="https://i.imgur.com/wTpuZA1.jpg" alt="drawing" width="500"/>
   
 - [x] Cadastra os Equipamentos, junto com uma imagem do mesmo.
 
-  <img src="https://i.imgur.com/4NuyDxk.jpg" alt="drawing" width="500"/>
+ <img src="https://i.imgur.com/4NuyDxk.jpg" alt="drawing" width="500"/>
   
 - [x] Pesquisar os Equipamentos cadastrados
   * Os equipamentos são listados do banco de dados
   
-  <img src="https://i.imgur.com/C5QAUn4.jpg" alt="drawing" width="500"/>
+ <img src="https://i.imgur.com/C5QAUn4.jpg" alt="drawing" width="500"/>
   
 - [x] Gerar Oficíos PDF com templates*  Ex: Declarações, Memorando, etc. 
  
